@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>exportingjs</artifactId>
-    <version>3.0.1</version>
+    <version>3.0.2-SNAPSHOT</version>
     <name>exportingjs</name>
     <description>WebJar for exportingjs</description>
     <url>http://webjars.org</url>
@@ -34,7 +34,7 @@
         <url>http://github.com/webjars/exportingjs</url>
         <connection>scm:git:https://github.com/webjars/exportingjs.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/exportingjs.git</developerConnection>
-        <tag>exportingjs-3.0.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <developers>
